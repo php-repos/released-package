@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "git@github.com:saeghe\/complex-package": {
+            "version": "development",
+            "hash": "5e60733132ddf50df675b2491e35b7bb01674c3e",
+            "owner": "saeghe",
+            "repo": "complex-package"
+        },
+        "git@github.com:saeghe\/simple-package.git": {
+            "version": "development",
+            "hash": "3db611bcd9fe6732e011f61bd36ca60ff42f4946",
+            "owner": "saeghe",
+            "repo": "simple-package"
+        }
+    }
+}
