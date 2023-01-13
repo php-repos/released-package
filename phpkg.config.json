@@ -1,12 +1,12 @@
 {
     "map": {
-        "Saeghe\\ReleasedPackage": "Source",
+        "PhpRepos\\ReleasedPackage": "Source",
         "Tests": "Tests"
     },
     "executables": {
         "released-command": "main-command.php"
     },
     "packages": {
-        "git@github.com:saeghe\/complex-package": "development"
+        "git@github.com:php-repos\/complex-package": "development"
     }
 }

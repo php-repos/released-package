@@ -1,8 +1,8 @@
 <?php
 
-namespace Saeghe\ReleasedPackage\Factories;
+namespace PhpRepos\ReleasedPackage\Factories;
 
-use Saeghe\ComplexPackage\Models\User;
+use PhpRepos\ComplexPackage\Models\User;
 
 class MyAwesomeFactory
 {

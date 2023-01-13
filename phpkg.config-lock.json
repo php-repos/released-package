@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "git@github.com:php-repos\/complex-package": {
+            "version": "development",
+            "hash": "079acc5267e34016e3aa0b70cc1291edeb032d03",
+            "owner": "php-repos",
+            "repo": "complex-package"
+        },
+        "git@github.com:php-repos\/simple-package.git": {
+            "version": "development",
+            "hash": "1022f2004a8543326a92c0ba606439db530a23c9",
+            "owner": "php-repos",
+            "repo": "simple-package"
+        }
+    }
+}
